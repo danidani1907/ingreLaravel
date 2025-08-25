@@ -1,27 +1,6 @@
-## Requisitos
+## projeto finalizado
 
-PHP 8.2 ou superior
-Composer
-Node.js 22 ou superior
 
-## Sequência para criar o projeto
 
-Criar o projeto com laravel
+https://github.com/user-attachments/assets/3159dc23-c511-4b19-b0c7-001cecc4f020
 
-composer create-project laravel/laravel .
-
-Iniciar o projeto com laravel
-
-PHP artisan serve
-
-criar a Contoller 
-
-php artisan make:controller userController
-
-criar a view
-
-php artisian make:  view users/create
-
-criar tabela no banco de Dados
-
-Php artisan migrate
